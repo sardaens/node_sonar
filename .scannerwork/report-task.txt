@@ -1,0 +1,6 @@
+projectKey=node-test-app
+serverUrl=http://192.168.99.100:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://192.168.99.100:9000/dashboard?id=node-test-app
+ceTaskId=AXBSrR7v79LwZz095mrG
+ceTaskUrl=http://192.168.99.100:9000/api/ce/task?id=AXBSrR7v79LwZz095mrG
